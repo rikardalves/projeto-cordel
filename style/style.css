@@ -80,12 +80,12 @@ section.normal > p{
 }
 
 section#img1{
-    background: gray url(../images/background001.jpg) right center no-repeat fixed;
+    background: gray url(../images/background001.jpg) center center no-repeat fixed;
     background-size: cover;
 }
 
 section#img2{
-    background: gray url(../images/background002.jpg) right center no-repeat fixed;
+    background: gray url(../images/background002.jpg) center center no-repeat fixed;
     background-size: cover;
 }
 
